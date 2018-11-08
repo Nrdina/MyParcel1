@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hp.MyParcel">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+
+        <activity
+            android:name="com.example.hp.MyParcel.SplashScreen"
+            android:label="My Parcel">
+
+        </activity>
+
+        <activity android:name="com.example.hp.MyParcel.LoginActivity2"
+            android:label="My Parcel">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.hp.MyParcel.SignUp"
+            android:label="Register"></activity>
+
+        <activity android:name="com.example.hp.MyParcel.MainActivity"
+            android:label="My Parcel"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name="com.example.hp.MyParcel.AboutUsActivity"
+            android:label="About Us"></activity>
+        <activity
+            android:name="com.example.hp.MyParcel.FeedbackActivity"
+            android:label="Feedback"></activity>
+        <activity
+            android:name="com.example.hp.MyParcel.AddBaratActivity"
+            android:label="Add Parcel"></activity>
+        <activity
+            android:name="com.example.hp.MyParcel.DisplaySQLiteDataActivity"
+            android:label="List of Parcel"></activity>
+        <activity
+            android:name="com.example.hp.MyParcel.ShowSingleRecordActivity"
+            android:label="Parcel"></activity>
+        <activity
+            android:name="com.example.hp.MyParcel.EditSingleRecordActivity"
+            android:label="Update Parcel"></activity>
+        <activity
+            android:name="com.example.hp.MyParcel.MainActivity2"
+            android:label="My Parcel"></activity>
+
+
+    </application>
+
+</manifest>

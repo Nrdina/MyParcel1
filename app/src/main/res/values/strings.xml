@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">e-SELERA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">PETA</string>
+    <string name="recipe">RESEPI</string>
+    <string name="edit">KEMASKINI</string>
+    <string name="delete">PADAM</string>
+    <string name="title_activity_display_contact">DisplayContact</string>
+    <string name="melayu">MELAYU</string>
+    <string name="deleteMelayu">Adakah anda pasti untuk memadam?</string>
+    <string name="yes">YA</string>
+    <string name="no">TIDAK</string>
+
+
+</resources>

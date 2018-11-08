@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1053327935202",
+    "firebase_url": "https://my-recipe-1cd2f.firebaseio.com",
+    "project_id": "my-recipe-1cd2f",
+    "storage_bucket": "my-recipe-1cd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053327935202:android:20dd805c660ba14a",
+        "android_client_info": {
+          "package_name": "com.example.hp.selera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053327935202-oj255o1kbd9hejokhtf1qasahbourgol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5cqCwQRftj0TLh5nUbA7vYxktbmsGh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
