@@ -1,4 +1,4 @@
 # MyParcel
 
 
-My Parcel Application is about
+My Parcel Application is about is use for any user that want to post their item for the delivery. Firstly, the user needs to register My Parcel application before they use this application. After register, they can login the application to make the post item. The application also need the user to fill in the required details at the psarcel section. When user click the add button in this section, it will display the data that the user need to enter. Other than that, this application can display all the data that the user already enter. My Parcel application also have some information in about us section to get the user know more details about it. Lastly, this application have feedback section which is user can contact the email or phone number that are provided to give their feedback. When the user enter the email or phone section, this application will connect to the email or phone for user to give any feedback about the application. 
